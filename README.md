@@ -27,3 +27,6 @@ Repositorio para compartir material relacionado a la blockchain y varios proyect
   * King, Stefan - Blockchain Startups_ Bitcoin and Ethereum as the Frontier of Finance-Token Flow Ltd (2021)
   
   * Juan Jimenez - A Guide to Crypto Collectibles and Non-fungible Tokens NFTS_ (crypto, cryptocurrency, polkadot, trading, bitcoin, staking, earn money online, invest, ethereum, blockchain, defi, oracle
+
+# Algunos roadmaps recomendados para aprender el ecosistema
+  * [Completo roadmap para aprender sobre blockchain y solidity] (https://vitto.cc/web3-and-solidity-smart-contracts-development-roadmap/)
