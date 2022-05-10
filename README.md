@@ -30,3 +30,12 @@ Repositorio para compartir material relacionado a la blockchain y varios proyect
 
 # Algunos roadmaps recomendados para aprender el ecosistema
   * [Completo roadmap para aprender sobre blockchain y solidity] (https://vitto.cc/web3-and-solidity-smart-contracts-development-roadmap/)
+
+# Algunas otras blockchains y proyectos relacionados
+
+  * [Rchaing]( https://rchain.coop/)
+  * [Firo] (https://firo.org/)
+  * [Iota] (https://www.iota.org/)
+  * [Cosmos] (https://cosmos.network/)
+  * [Stellar] (https://www.stellar.org/)
+  * [Loopring] (https://loopring.org/)
