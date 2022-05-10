@@ -17,3 +17,4 @@ Repositorio para compartir material relacionado a la blockchain y varios proyect
 * [Curso enfocado en solidity de freecodecamp en youtube](https://www.youtube.com/watch?v=ipwxYa-F1uY)
 * [Curso de Alberto Lasa sobre blockchain y smartcontracts en youtube](https://www.youtube.com/c/AlbertoLasa)
 * [Curso interactivo sobre blockchain y smartcontracts de eth.build](https://eth.build/)
+* [Curso de smartcontracts y solidity dictado por openwebinars](https://openwebinars.net/cursos/smart-contracts-solidity/)
