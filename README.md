@@ -60,3 +60,6 @@ Repositorio para compartir material relacionado a la blockchain y varios proyect
 
 # Buscador de diversas blockchains para agregar a metamask
  * [chainlist](https://chainlist.org)
+
+# artículos sobre el ecosistema 
+ * [la biblia de los nft](https://defistandard.substack.com/p/la-biblia-de-los-nft-non-fungible?s=r)
