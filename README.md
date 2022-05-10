@@ -39,3 +39,21 @@ Repositorio para compartir material relacionado a la blockchain y varios proyect
   * [Cosmos] (https://cosmos.network/)
   * [Stellar] (https://www.stellar.org/)
   * [Loopring] (https://loopring.org/)
+
+# Algunos recursos y canales utiles que la gente de Chainlink ofrece gratuitamente aprender:
+
+  * [Twitter de Chainlink en español]( https://twitter.com/ChainlinkSpain  )
+
+  * [Discord Oficial (inglés) donde podrás hablar directamente con los desarrolladores del equipo de Chainlink]( https://discord.gg/tFYegV6)
+
+  * [Documentación técnica oficial](  https://docs.chain.link/docs)
+
+  * [El canal oficial de Chainlink en YouTube]( https://www.youtube.com/c/ChainlinkOfficial/videos)
+
+  * [Chainlink  GitHub aquí]( https://github.com/smartcontractkit/chainlink/)
+
+### Chainlink dispone de dos recursos adicionales especialmente interesantes: 
+
+  * [El Mercado de Chainlink](https://market.link/) Posee una lista de nodos disponibles, trabajos, feeds y adaptadores.
+
+  * [Indice de Reputación] (https://reputation.link/) Analiza el rendimiento de todos los nodos de Chainlink on-chain para que los desarrolladores de contratos inteligentes que necesiten nodos puedan elegir a aquellos nodos que consideren tengan un buen rendimiento (baja latencia, índice extremadamente elevado de respuestas, no escatiman en gas durante momentos de alta congestión de la red Ethereum... etc).
