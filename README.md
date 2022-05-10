@@ -10,5 +10,8 @@ Repositorio para compartir material relacionado a la blockchain y varios proyect
 * [Plataformas Blockchain](https://es.coursera.org/learn/blockchain-platforms?specialization=blockchain)
 
 
+
 # Cursos sobre Smart Contracts:
 * [Curso basico sobre blockchain y herramientas de desarrollo](https://www.cursosdev.com/4385966-smart-contracts)
+* [Curso completo de freecodecamp en youtube](https://www.youtube.com/watch?v=M576WGiDBdQ&feature=youtu.be)
+* [Curso enfocado en solidity de freecodecamp en youtube](https://www.youtube.com/watch?v=ipwxYa-F1uY)
