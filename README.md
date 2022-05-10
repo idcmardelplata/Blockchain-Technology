@@ -15,3 +15,4 @@ Repositorio para compartir material relacionado a la blockchain y varios proyect
 * [Curso basico sobre blockchain y herramientas de desarrollo](https://www.cursosdev.com/4385966-smart-contracts)
 * [Curso completo de freecodecamp en youtube](https://www.youtube.com/watch?v=M576WGiDBdQ&feature=youtu.be)
 * [Curso enfocado en solidity de freecodecamp en youtube](https://www.youtube.com/watch?v=ipwxYa-F1uY)
+* [Curso de Alberto Lasa sobre blockchain y smartcontracts en youtube](https://www.youtube.com/c/AlbertoLasa)
