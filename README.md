@@ -11,4 +11,4 @@ Repositorio para compartir material relacionado a la blockchain y varios proyect
 
 
 # Cursos sobre Smart Contracts:
-* [Curso basico sobre Smart Contracts](https://es.coursera.org/learn/smarter-contracts)
+* [Curso basico sobre blockchain y herramientas de desarrollo](https://www.cursosdev.com/4385966-smart-contracts)
