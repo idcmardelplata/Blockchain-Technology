@@ -57,3 +57,6 @@ Repositorio para compartir material relacionado a la blockchain y varios proyect
   * [El Mercado de Chainlink](https://market.link/) Posee una lista de nodos disponibles, trabajos, feeds y adaptadores.
 
   * [Indice de Reputación] (https://reputation.link/) Analiza el rendimiento de todos los nodos de Chainlink on-chain para que los desarrolladores de contratos inteligentes que necesiten nodos puedan elegir a aquellos nodos que consideren tengan un buen rendimiento (baja latencia, índice extremadamente elevado de respuestas, no escatiman en gas durante momentos de alta congestión de la red Ethereum... etc).
+
+# Buscador de diversas blockchains para agregar a metamask
+ * [chainlist](https://chainlist.org)
