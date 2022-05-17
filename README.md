@@ -28,7 +28,6 @@ Repositorio para compartir material relacionado a la blockchain y varios proyect
   
   * Juan Jimenez - A Guide to Crypto Collectibles and Non-fungible Tokens NFTS_ (crypto, cryptocurrency, polkadot, trading, bitcoin, staking, earn money online, invest, ethereum, blockchain, defi, oracle
 
-  [Increible coleccion de libros sobre blockchain](https://blockchainbooks.github.io/)
 
 # Algunos roadmaps recomendados para aprender el ecosistema
   * [Completo roadmap para aprender sobre blockchain y solidity] (https://vitto.cc/web3-and-solidity-smart-contracts-development-roadmap/)
