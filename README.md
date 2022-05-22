@@ -69,3 +69,4 @@ Repositorio para compartir material relacionado a la blockchain y varios proyect
  * [yjjnls/Awesome-blockchain](https://github.com/yjjnls/awesome-blockchain)
  * [hitripod/awesome-blockchain](https://github.com/hitripod/awesome-blockchain)
  * [La fabulosa lista de 0xtokens](https://0xtokens.github.io/awesome-blockchain/)
+ * [Un archivo notion con notas sobre Solidity](https://tall-tower-32e.notion.site/Introducci-n-a-Solidity-d330eaa381ac44a58f80175d0dbc21ea)
